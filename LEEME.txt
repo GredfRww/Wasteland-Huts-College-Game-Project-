@@ -1,0 +1,1 @@
+YAHO 2.5, Taller 10: proyecto listo. Trae todo lo del Taller 9 ya resuelto. Abra project.godot y oprima F5.
