@@ -2,7 +2,7 @@ extends Node
 
 # Lleva la cuenta de los recursos que usted carga.
 @export var capacidad = 5
-@export var alcance = 0.0   # TODO hueco 1
+@export var alcance = 1.5   # TODO hueco 1
 var cuantos = 0
 @onready var pj = get_parent()
 
@@ -18,7 +18,7 @@ func recoger():
 			if cuantos >= capacidad:
 				print("Mochila llena")
 				return
-			cuantos += 0   # TODO hueco 2
+			cuantos += 1   # TODO hueco 2
 			print("Recursos: ", cuantos, " de ", capacidad)
 			r.remove_from_group("recursos")
 			r.queue_free()
