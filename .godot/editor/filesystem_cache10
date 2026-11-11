@@ -1,12 +1,12 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1794277844
+::res://::1794431761
 camara.gd::GDScript::1737124458956552800::1794175352::0::1::::<>Camera3D<><>0<>0<><>::
 enemigo.gd::GDScript::3938637110113667738::1794175352::0::1::::<>CharacterBody3D<><>0<>0<><>::
 enemigo.tscn::PackedScene::-1::1794175352::0::1::::<><><>0<>0<><>::res://enemigo.gd<>res://personaje/character-male-d.glb
 icon.svg::CompressedTexture2D::7667077384917717127::1794175352::1794254419::1::::<><><>0<>0<>12d634f5956e4a24bf577eee2d6ae1f9<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 LEEME.txt::TextFile::-1::1794175352::0::1::::<><><>0<>0<><>::
-main.tscn::PackedScene::4565370733990426273::1794276084::0::1::::<><><>0<>0<><>::uid://brva021mr4wrx::::res://personaje.gd<>uid://y0qglcgtdgfw::::res://camara.gd<>uid://cnc4usxugyrxu::::res://vidas.gd<>uid://cddopxm7pyoxf::::res://personaje/character-male-a.glb<>res://enemigo.tscn<>uid://dullhvobw845d::::res://mochila.gd<>res://vecina.tscn
-mochila.gd::GDScript::8586428591306155003::1794276085::0::1::::<>Node<><>0<>0<><>::
+main.tscn::PackedScene::4565370733990426273::1794287898::0::1::::<><><>0<>0<><>::uid://brva021mr4wrx::::res://personaje.gd<>uid://y0qglcgtdgfw::::res://camara.gd<>uid://cnc4usxugyrxu::::res://vidas.gd<>uid://cddopxm7pyoxf::::res://personaje/character-male-a.glb<>res://enemigo.tscn<>uid://dullhvobw845d::::res://mochila.gd<>res://vecina.tscn
+mochila.gd::GDScript::8586428591306155003::1794277916::0::1::::<>Node<><>0<>0<><>::
 personaje.gd::GDScript::3623029062087006633::1794175352::0::1::::<>CharacterBody3D<><>0<>0<><>::
 vecina.gd::GDScript::4995788067434146886::1794175352::0::1::::<>Node3D<><>0<>0<><>::
 vecina.tscn::PackedScene::-1::1794175352::0::1::::<><><>0<>0<><>::res://vecina.gd<>res://personaje/character-female-b.glb

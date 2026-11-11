@@ -13,7 +13,7 @@ func _physics_process(_delta):
 	if global_position.distance_to(pj.global_position) > alcance:
 		return
 	var mochila = pj.get_node("Mochila")
-	if mochila.cuantos >= 99:   # TODO hueco 3
+	if mochila.cuantos >= pide:   # TODO hueco 3
 		ya_gano = true
 		print("Vecina: gracias, ya tengo todo. ¡Ganó!")
 	else:
