@@ -20,4 +20,4 @@ func perder_vida():
 		vidas = 3
 		print("Vidas: ", vidas)
 		var mochila = personaje.get_node("Mochila")
-		mochila.vaciar_nada()   # TODO hueco 4
+		mochila.vaciar()   # TODO hueco 4
